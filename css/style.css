@@ -9524,3 +9524,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+#home-section .text img {
+  border-radius: 50%;
+  border: rgb(92, 91, 91) 3px solid;
+  width: 150px;
+}
